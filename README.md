@@ -1,2 +1,3 @@
-# arq.soft.2.hexagonal
-Arquitectura hexagonal
+# Arquitectura Hexagonal
+## Materia: Arquitectura de Software 2 
+## Alumno: Rodriguez, Natalia Stefania
